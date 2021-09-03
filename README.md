@@ -21,4 +21,7 @@ acho que é isso mesmo!
 
 
 Obs: o arquivo exe vem com as dependencias incluidas, já o arquivo python não.
+
 Obs2: o arquivo exe vem com a versão do codigo para o brave, caso queira usar em outro navegador modifique o arquivo python e o use!
+
+O arquivo dist e o pycache não está no github por causa do limite de upload.
