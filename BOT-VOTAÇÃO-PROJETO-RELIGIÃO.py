@@ -5,7 +5,7 @@ import time
 
 # bugs: se o captcha pede pra clicar nas imagens ele não consegue passar
 
-# bot feito por vitor annes simas
+# bot feito por vitor vztorm
 
 pyautogui.PAUSE = 1 # regula a velocidade
 
@@ -72,5 +72,5 @@ pyautogui.click(x=565, y=616) # clica em votar denovo para confirmar
 
 pyautogui.click(x=866, y=169) # clica em ok para reiniciar o processo
  
-# bot feito por vitor annes simas
+# bot feito por vitor vztorm
 
